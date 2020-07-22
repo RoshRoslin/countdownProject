@@ -3,4 +3,4 @@ Part of a Portfolio series on github
 
 Vanilla Javascript Countdown Project. Tutorial by John Smilga
 
-View Live on 
+View Live on https://roshroslin.github.io/countdownProject/ 
